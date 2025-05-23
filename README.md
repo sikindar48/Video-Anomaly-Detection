@@ -1,8 +1,8 @@
 # Anomaly Detection System for Surveillance Videos
-A GUI-based anomaly detection system for surveillance videos. 
-Uses machine learning (SVM) and deep learning (BiLSTM) to classify video frames.  
-Detects anomalies like fights or accidents in real-time.  
-Built with Python, OpenCV, Tkinter, and PyTorch.
+- A GUI-based anomaly detection system for surveillance videos. 
+- Uses machine learning (SVM) and deep learning (BiLSTM) to classify video frames.  
+- Detects anomalies like fights or accidents in real-time.  
+- Built with Python, OpenCV, Tkinter, and PyTorch.
 
 ---
 
@@ -58,8 +58,6 @@ Built with Python, OpenCV, Tkinter, and PyTorch.
 
 ---
 
-
-## 🖥 How to Run
 
 ## 🖥 How to Run
 
