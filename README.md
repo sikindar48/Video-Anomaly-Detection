@@ -67,11 +67,11 @@ Built with Python, OpenCV, Tkinter, and PyTorch.
 
 2.	Install requirements
 
-   pip install -r requirements.txt
+pip install -r requirements.txt
 
 3.	Run the application
 
-   python main.py
+python main.py
 
 ⸻
 
