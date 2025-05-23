@@ -98,4 +98,3 @@ python main.py
 
 Nayab Sikindar
 📧 nayabsikindar48@gmail.com
-🔗 LinkedIn
