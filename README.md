@@ -65,15 +65,10 @@ Built with Python, OpenCV, Tkinter, and PyTorch.
    ```bash
    git clone https://github.com/yourusername/AnomalyDetectionGUI.git
    cd AnomalyDetectionGUI
-
-	2.	Install requirements
-
-pip install -r requirements.txt
-
-
-	3.	Run the application
-
-python main.py
+2. Install requirements
+   pip install -r requirements.txt
+3. Run the application
+   python main.py
 
 ⸻
 
