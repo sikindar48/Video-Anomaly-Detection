@@ -58,6 +58,7 @@ Built with Python, OpenCV, Tkinter, and PyTorch.
 
 ---
 
+
 ## 🖥 How to Run
 
 1. Clone this repository  
@@ -65,11 +66,12 @@ Built with Python, OpenCV, Tkinter, and PyTorch.
    git clone https://github.com/yourusername/AnomalyDetectionGUI.git
    cd AnomalyDetectionGUI
 
-2.	Install requirements
+	2.	Install requirements
 
 pip install -r requirements.txt
 
-3.	Run the application
+
+	3.	Run the application
 
 python main.py
 
